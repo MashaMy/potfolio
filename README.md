@@ -1,5 +1,3 @@
-# potfolio
-https://deluxe-begonia-e9cd25.netlify.app/
 ПРИВЕТ!
 Меня зовут Мария и
 я web-разработчик.
@@ -10,3 +8,4 @@ https://deluxe-begonia-e9cd25.netlify.app/
 
 Глаза горят. Руки делают. Результаты нравятся мне и моим клиентам.
 На сайте коммерческие и учебные материалы.
+https://deluxe-begonia-e9cd25.netlify.app/
